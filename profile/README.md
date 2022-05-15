@@ -6,4 +6,4 @@ This project has recently been migrated over from a private GitLab instance, whi
 
 With the move to GitHub we aim to be more transparent, and plan to provide unified information about the current state of the project and future plans.
 
-For any feedback and communication with the Team, you can join our [Discord server](https://discord.com/invite/bUuQasHdrF).
+For any feedback and communication with the team, you can join our [Discord server](https://discord.com/invite/bUuQasHdrF).
