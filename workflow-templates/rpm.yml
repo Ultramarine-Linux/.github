@@ -8,8 +8,6 @@ on:
   push:
     branches: [ "um36" ]
   # exclude main branch
-  exclude:
-    branches: [ "main" ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
