@@ -1,0 +1,12 @@
+{
+    "name": "Push RPM to Koji",
+    "description": "Push RPM to Koji",
+    "iconName": "koji",
+    "categories": [
+        "RPM Spec"
+    ],
+    "filePatterns": [
+        "*.spec",
+        "umpkg.toml"
+    ]
+}
