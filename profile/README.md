@@ -1,9 +1,23 @@
+<img align="left" style="vertical-align: middle" width="150" height="150" src="https://raw.githubusercontent.com/Ultramarine-Linux/website/main/public/ultramarine-logo.svg">
+
 # Ultramarine Linux
 
-Ultramarine Linux is a Linux® distribution based on Fedora®. Our goal is to design an experience which satisfies the beginner with the simplicity, while retaining the features a power user would demand.
+Ultramarine Linux is a spiritual successor to Korora Linux, intending to make an operating system that “just works” for people of all levels of experience.
 
-This project has recently been migrated over from a private GitLab instance, which can be found at [gitlab.ultramarine-linux.org](https://gitlab.ultramarine-linux.org). Please note: until we reorganize things and settle on a structure, most of the repositories will be private and only progressively rolled out to the public. (You can find all repos on the private GitLab for now)
+## 🖥️ Installing
 
-With the move to GitHub we aim to be more transparent, and plan to provide unified information about the current state of the project and future plans.
+If you'd like to give Ultramarine Linux a try, all of the downloads are located on our [downloads page](https://ultramarine-linux.org/download/).
 
-For any feedback and communication with the team, you can join our [Discord server](https://discord.com/invite/bUuQasHdrF).
+## 🚀 Community
+
+Ultramarine is built by a vast community of people just like you! Whether you're interested in contributing or just want to hang out, we're active in a variety of places.
+
+Our primary hubs for communication are the [Fyra Labs Discord](https://discord.gg/5fdPuxTg5Q) or [Matrix](https://matrix.to/#/#hub:fyralabs.com), and the [Ultramarine Linux Discord](https://discord.com/invite/bUuQasHdrF).
+
+We also have accounts on [Mastodon/Fediverse](https://fedi.fyralabs.com/@ultramarine) and [Twitter/X](https://twitter.com/ultramarineproj) for those who want an easy feed to follow updates on.
+
+## 📚 Documentation
+
+All of the documentation surrounding Ultramarine Linux can be found on our [Wiki]([url](https://wiki.ultramarine-linux.org/en/welcome/)https://wiki.ultramarine-linux.org/en/welcome/). If you'd like to contribute to it, please see the [Wiki's GitHub repository](https://github.com/ultramarine-Linux/wiki-new).
+
+<!--## ⚒️ Contributing-->
