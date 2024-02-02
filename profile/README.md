@@ -1,4 +1,4 @@
-<img align="left" style="vertical-align: middle" width="150" height="150" src="https://raw.githubusercontent.com/Ultramarine-Linux/website/main/public/ultramarine-logo.svg">
+<img align="left" style="vertical-align: middle" width="125" height="125" src="https://raw.githubusercontent.com/Ultramarine-Linux/website/main/public/ultramarine-logo.svg">
 
 # Ultramarine Linux
 
