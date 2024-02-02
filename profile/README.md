@@ -4,6 +4,7 @@
 
 Ultramarine Linux is a spiritual successor to Korora Linux, intending to make an operating system that “just works” for people of all levels of experience.
 
+
 ## 🖥️ Installing
 
 If you'd like to give Ultramarine Linux a try, all of the downloads are located on our [downloads page](https://ultramarine-linux.org/download/).
