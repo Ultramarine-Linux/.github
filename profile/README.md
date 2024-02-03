@@ -19,6 +19,10 @@ We also have accounts on [Mastodon/Fediverse](https://fedi.fyralabs.com/@ultrama
 
 ## 📚 Documentation
 
-All of the documentation surrounding Ultramarine Linux can be found on our [Wiki]([url](https://wiki.ultramarine-linux.org/en/welcome/)https://wiki.ultramarine-linux.org/en/welcome/). If you'd like to contribute to it, please see the [Wiki's GitHub repository](https://github.com/ultramarine-Linux/wiki-new).
+All of the documentation surrounding Ultramarine Linux can be found on our [Wiki](https://wiki.ultramarine-linux.org/en/welcome/). If you'd like to contribute to it, please see the [Wiki's GitHub repository](https://github.com/ultramarine-Linux/wiki-new).
 
-<!--## ⚒️ Contributing-->
+## ⚒️ Contributing
+
+Interested in contributing to Ultramarine Linux? Check out our [contributor guide](https://wiki.ultramarine-linux.org/en/contributing/contributorguide/) to get started.
+
+We're also currently accepting [sponsors through GitHub Sponsors](https://github.com/sponsors/FyraLabs). By sponsoring us, you can help us towards our mission, and get some useful benefits for yourself too.
