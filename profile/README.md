@@ -13,7 +13,7 @@ If you'd like to give Ultramarine Linux a try, all of the downloads are located 
 
 Ultramarine is built by a vast community of people just like you! Whether you're interested in contributing or just want to hang out, we're active in a variety of places.
 
-Our primary hubs for communication are the [Fyra Labs Discord](https://discord.gg/5fdPuxTg5Q) or [Matrix](https://matrix.to/#/#hub:fyralabs.com), and the [Ultramarine Linux Discord](https://discord.com/invite/bUuQasHdrF).
+Our primary hubs for communication are the [Fyra Labs Discord](https://discord.gg/5fdPuxTg5Q) or [Matrix](https://matrix.to/#/#hub:fyralabs.com).
 
 We also have accounts on [Mastodon/Fediverse](https://fedi.fyralabs.com/@ultramarine) and [Twitter/X](https://twitter.com/ultramarineproj) for those who want an easy feed to follow updates on.
 
